@@ -41,7 +41,7 @@ Você pode visualizar o projeto completo, incluindo as fontes e o áudio gerado,
 ## Como foi feito
 
 * **Ferramenta:** Google NotebookLM.
-* **Fontes de Estudo:** 84 recursos que voce pode conferir ao acessar o meu NotebookLM.
+* **Fontes de Estudo:** 84 recursos que você pode conferir ao acessar o meu NotebookLM.
 
 ---
 
