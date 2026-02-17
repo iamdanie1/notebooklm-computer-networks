@@ -34,7 +34,7 @@ Com base nas fontes carregadas (PDFs, textos e anotações), a ferramenta gerou:
 
 Você pode visualizar o projeto completo, incluindo as fontes e o áudio gerado, através do link abaixo:
 
-[** Acessar NotebookLM: Computer Network**](https://notebooklm.google.com/notebook/87fdfbf3-9b34-49ca-891e-f7d0686e636b)
+[**Acessar NotebookLM: Computer Network**](https://notebooklm.google.com/notebook/87fdfbf3-9b34-49ca-891e-f7d0686e636b)
 
 ---
 
